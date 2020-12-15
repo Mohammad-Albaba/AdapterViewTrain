@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdapterViewTrain</string>
+    <string name="search">Search</string>
+    <string name="add_note">Add Note</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast_enter_note">Enter note please</string>
+    <string name="edit">Edit Note</string>
+    <string name="is_important">Is Important ?</string>
+</resources>
